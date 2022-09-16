@@ -1,2 +1,3 @@
 # cristiangram
-Esse projeto consiste em reproduzir a interface do instagram.
+
+This project tries to reproduce the instagram's interface
